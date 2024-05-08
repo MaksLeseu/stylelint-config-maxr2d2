@@ -1,0 +1,19 @@
+{
+  "name": "stylelint-config-maxr2d2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "stylelint": "16.5.0",
+    "stylelint-config-clean-order": "5.4.2",
+    "stylelint-config-standard-scss": "13.1.0"
+  },
+  "peerDependencies": {
+    "stylelint": ">=16.5.0",
+    "stylelint-config-clean-order": ">=5.4.2",
+    "stylelint-config-standard-scss": ">=13.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
